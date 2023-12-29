@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: "Assets/Scenes/AnaMen\xFC.unity"
+    guid: 884f87d6d09a0254c8a8ca4398991c1e
+  - enabled: 1
+    path: "Assets/Scenes/OyunEkran\u0131.unity"
+    guid: 3000b31637a112f4eaa7ca7bffbc5297
+  - enabled: 1
+    path: "Assets/Scenes/OyunEkran\u01312.unity"
+    guid: 8db228790083c434aa9abfb3775dd927
+  - enabled: 1
+    path: "Assets/Scenes/OyunEkran\u01313.unity"
+    guid: 496c773f424dc9a458a71c55a904650f
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
